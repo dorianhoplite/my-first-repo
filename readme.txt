@@ -1,0 +1,1 @@
+echo "Welcome to My First Repo" > readme.txt
